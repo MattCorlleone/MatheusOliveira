@@ -87,13 +87,6 @@ Canal de música/jazz/soul com identidade visual em pixel-art.
 
 ---
 
-## 📊 Estatísticas GitHub  
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusalvesoliveira&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalvesoliveira&layout=compact&theme=radical)  
-
----
-
 ## 📫 Contato
 - ✉️ E-mail: **[matheus.oliveira@equilibriumtecnologia.com.br](mailto:matheus.oliveira@equilibriumtecnologia.com.br)**  
 - 💼 LinkedIn: [linkedin.com/in/oliveiramatheus14](#)  
